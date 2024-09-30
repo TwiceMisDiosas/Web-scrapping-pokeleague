@@ -9,4 +9,4 @@ Pre-requisitos:
   
 Ejecución:  
 -Ingresar a la ruta en la cual se tenga almacenado el Script dentro de la terminal (CMD).   
--Ejecutar el Script de a siguiente forma: pythhon Test_WebScrapping.py  
+-Ejecutar el Script de a siguiente forma: python Test_WebScrapping.py  
